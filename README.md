@@ -1,2 +1,3 @@
-# SpringBoot e JPA
-Projetos com o uso do framework SpringBoot
+# CRUD SpringBoot and JPA Web Application
+
+Very simple CRUD SpringBoot Application. MySQL DataBase.
